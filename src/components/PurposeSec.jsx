@@ -16,7 +16,7 @@ const features = [
 
 const PurposeSec = () => {
   return (
-    <section id="about" className="w-full bg-gray-50 py-16 px-4 sm:px-6 md:px-8">
+    <section id="about" className="w-full bg-gray-50 py-26 px-4 sm:px-6 md:px-8">
       <motion.div 
         variants={fadeIn('right', 0.2)}
         initial="hidden"
