@@ -1,7 +1,7 @@
 import { Routes, Route } from 'react-router-dom';
 import CompanyLogo from "./components/CompanyLogo";
 import FeaturesSec from "./components/FeaturesSec";
-import Header from "./components/Header";
+import Header from "./components/header/Header";
 import Hero from "./components/Hero";
 import MonitorSec from "./components/MonitorSec";
 import NewsletterSec from "./components/NewsletterSec";
